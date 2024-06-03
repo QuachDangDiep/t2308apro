@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Desktop\t2308apro\bin\Debug\net8.0\t2308apro.exe
+C:\Users\admin\OneDrive\Desktop\t2308apro\bin\Debug\net8.0\t2308apro.deps.json
+C:\Users\admin\OneDrive\Desktop\t2308apro\bin\Debug\net8.0\t2308apro.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\t2308apro\bin\Debug\net8.0\t2308apro.dll
+C:\Users\admin\OneDrive\Desktop\t2308apro\bin\Debug\net8.0\t2308apro.pdb
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.dll
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\refint\t2308apro.dll
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.pdb
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\t2308apro.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\t2308apro\obj\Debug\net8.0\ref\t2308apro.dll
